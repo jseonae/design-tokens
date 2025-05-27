@@ -1,5 +1,10 @@
 {
-  "source": ["tokens-transformed.json"],
+  "source": [
+    "tokens-transformed.json",
+    "tokens-core.json",
+    "tokens-core2.json",
+    "tokens-primitive.json"
+  ],
   "platforms": {
     "css": {
       "transformGroup": "css",
