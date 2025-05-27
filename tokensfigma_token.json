@@ -81,10 +81,6 @@
         "value": "#ffffff",
         "type": "color"
       },
-      "gray1": {
-        "value": "#818181",
-        "type": "color"
-      },
       "gray": {
         "100": {
           "value": "#f7fafc",
