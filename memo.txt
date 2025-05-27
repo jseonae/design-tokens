@@ -1,0 +1,3 @@
+npx token-transformer tokensfigma_token.json tokens-core.json core
+npx token-transformer tokensfigma_token.json tokens-core2.json core/core
+npx token-transformer tokensfigma_token.json tokens-primitive.json primitive/value-set
