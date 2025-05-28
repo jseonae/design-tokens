@@ -82,6 +82,11 @@
         "type": "color"
       },
       "gray": {
+        "10": {
+          "value": "#000",
+          "type": "color",
+          "description": "추가"
+        },
         "100": {
           "value": "#f7fafc",
           "type": "color"
